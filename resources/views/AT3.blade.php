@@ -8,25 +8,6 @@
 .tg .tg-hgcj{font-weight:bold;text-align:center}
 </style>
 <table class="tg" style="undefined;width: 990px">
-<colgroup>
-<col style="width: 129px">
-<col style="width: 66px">
-<col style="width: 113px">
-<col style="width: 129px">
-<col style="width: 65px">
-<col style="width: 39px">
-<col style="width: 37px">
-<col style="width: 38px">
-<col style="width: 36px">
-<col style="width: 43px">
-<col style="width: 43px">
-<col style="width: 43px">
-<col style="width: 37px">
-<col style="width: 34px">
-<col style="width: 39px">
-<col style="width: 48px">
-<col style="width: 51px">
-</colgroup>
   <tr>
     <th class="tg-hgcj">MINISTERIO DE EDUCACIÓN SUBPERIOR</th>
     <th class="tg-e3zv" colspan="14">PROGRAMACIÓN Y CONTROL DE M.P.P</th>
